@@ -26,3 +26,7 @@ This section contains analytical SQL case studies, query solutions, and database
 
 ## 📬 Contact
 Happy to walk through any SQL logic if needed.
+
+---
+
+⬅️ **[Back to Home](../README.md)**
