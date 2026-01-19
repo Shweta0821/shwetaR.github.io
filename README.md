@@ -32,8 +32,11 @@ Chatbot and AI Projects
 ---
 ## 🛠️ Tools & Technologies
 Languages:  `Python` · `SQL`
+
 BI & Visualization:  `Power BI` · `Tableau` · `Looker Studio`
+
 Databases:  `MySQL` · `PostgreSQL` · `SQL Server`
+
 Cloud & Tools:  `AWS` · `GitHub` · `Databricks` · `Excel`
 
 ---
