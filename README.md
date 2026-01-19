@@ -29,6 +29,17 @@ Query optimization, analytical SQL, stored procedures, and case studies on real-
 Chatbot and AI Projects  
 👉 **[View Other Projects](./AI-AWS/README.md)**
 
+---
+## 🛠️ Tools & Technologies
+Languages:  
+`Python` · `SQL`
+BI & Visualization:  
+`Power BI` · `Tableau` · `Looker Studio`
+Databases:  
+`MySQL` · `PostgreSQL` · `SQL Server`
+Cloud & Tools:  
+`AWS` · `GitHub` · `Databricks` · `Excel`
+---
 ## 📬 Contact
 
 - **Email:** shwetagadewar@gmail.com  
