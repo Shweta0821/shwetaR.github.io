@@ -39,6 +39,7 @@ Databases:
 `MySQL` · `PostgreSQL` · `SQL Server`
 Cloud & Tools:  
 `AWS` · `GitHub` · `Databricks` · `Excel`
+
 ---
 ## 📬 Contact
 
