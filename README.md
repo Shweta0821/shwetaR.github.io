@@ -25,7 +25,9 @@ Query optimization, analytical SQL, stored procedures, and case studies on real-
 👉 **[View SQL Projects](./sql/README.md)**
 
 ---
-
+### 🗄️ Other Projects
+Chatbot and AI Projects  
+👉 **[View Other Projects](./AI-AWS/README.md)**
 
 ## 📬 Contact
 
