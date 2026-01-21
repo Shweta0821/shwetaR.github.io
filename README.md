@@ -1,8 +1,15 @@
-# 🧑‍💻 Shweta's Data Portfolio
 
-Welcome to my data portfolio!  
-This space showcases my end-to-end work across **Python**, **Business Intelligence tools**, and **SQL**.  
-Each section below links to a dedicated page with detailed project documentation, datasets (when allowed), code, insights, and dashboards.
+# 🧑‍💻 Data → Insights → Impact
+
+I analyze data to uncover patterns, answer business questions, and support smarter decisions.
+
+This repository showcases **end-to-end analytics projects** using **Python, SQL, and visualization tools**, covering:
+- Data cleaning & preparation  
+- Exploratory data analysis (EDA)  
+- Business-focused analysis  
+- Insight generation & storytelling  
+
+Each project is designed to reflect **real-world use cases** and a **practical, decision-driven analytics approach**.
 
 ---
 
@@ -47,8 +54,4 @@ Cloud & Tools:  `AWS` · `GitHub` · `Databricks` · `Excel`
 - **GitHub:** https://github.com/Shweta0821/shwetaR.github.io  
 
 ---
-
-## ⭐ Support
-
-If you like this portfolio, please consider giving the repo a star — it helps others discover the work!
 
