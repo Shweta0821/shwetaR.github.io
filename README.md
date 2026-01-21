@@ -1,5 +1,5 @@
 
-# 🧑‍💻 Data → Insights → Impact
+## 🧑‍💻 Data → Insights → Impact
 
 I analyze data to uncover patterns, answer business questions, and support smarter decisions.
 
