@@ -6,16 +6,11 @@ This page highlights my Python-based projects, focusing on data analysis, automa
 
 ## 📌 Projects
 
-### 📊 Sales Data Analysis
-![Sales Analysis](./sales-data-analysis/screenshot.png)
-
-**Description:**  
-Analyzed sales data to uncover trends, top-performing products, and seasonal patterns.
-
-**Tools:** Python, Pandas, Matplotlib  
-
-🔗 **GitHub Repo:** https://github.com/yourusername/sales-data-analysis  
-🔗 **Notebook:** ./sales-data-analysis/
+🧠 Student Stress & Academic Performance Analysis
+Description:
+Analyzed multi-dimensional biometric data (EDA, HR, Temperature) alongside exam scores to study the impact of stress on academic performance. Engineered HRV and RMSSD features from IBI data and performed temporal analysis to identify peak stress phases during exams.
+Tools: Python, Pandas, NumPy, Matplotlib
+👉 More Details: ./student-stress-analysis/
 
 ---
 
