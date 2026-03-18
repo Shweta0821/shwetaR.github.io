@@ -7,9 +7,10 @@ This page highlights my Python-based projects, focusing on data analysis, automa
 ## 📌 Projects
 
 🧠 Student Stress & Academic Performance Analysis
-Description:
+**Description:** 
 Analyzed multi-dimensional biometric data (EDA, HR, Temperature) alongside exam scores to study the impact of stress on academic performance. Engineered HRV and RMSSD features from IBI data and performed temporal analysis to identify peak stress phases during exams.
-Tools: Python, Pandas, NumPy, Matplotlib
+
+**Tools:** Python, Pandas, NumPy, Matplotlib
 👉 More Details: ./student-stress-analysis/
 
 ---
