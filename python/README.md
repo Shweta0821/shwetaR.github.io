@@ -12,7 +12,7 @@ Analyzed multi-dimensional biometric data (EDA, HR, Temperature) alongside exam 
 
 **Tools:** Python, Pandas, NumPy, Matplotlib  
 
-👉 **[More Details](./student-stress-analysis/)**
+👉 *[More Details](./python/student-stress-analysis/README.md)*
 ---
 
 ### 🤖 Machine Learning Model
